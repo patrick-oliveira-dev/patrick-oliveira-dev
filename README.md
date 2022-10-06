@@ -13,10 +13,10 @@
   <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Patrick-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Patrick-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Patrick-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
-  <img align="right" alt="patrick-gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/3c/31/1e/3c311ef7d25314e18e8cf5544cb26c15.jpg">
+  <img align="right" alt="patrick-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/09532a1125a8471fd19defda3e364a5f.gif">
 </div>
   
   ##
