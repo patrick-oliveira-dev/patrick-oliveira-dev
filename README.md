@@ -1,4 +1,4 @@
-### Olá, me chamo Patrick. Sou Dev Fullstack e Analista de Testes com foco em automações.
+### Seja Bem Vindo, Me chamo Patrick e sou Desenvolvedor Fullstack Java e Angular.
 
 <div align="center">
   <a href="https://github.com/patrick-oliveira-dev">
