@@ -1,4 +1,6 @@
-### Seja Bem Vindo, Me chamo Patrick e sou Desenvolvedor Fullstack Java e Angular.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&pause=1000&color=991BFD&random=false&width=435&lines=Bem+vindo!;Meu+nome+%C3%A9+Patrick;Sou+Dev+Fullstack+"/>
+</h1>
 
 <div align="center">
   <a href="https://github.com/patrick-oliveira-dev">
